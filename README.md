@@ -1,5 +1,5 @@
 EDA_project:
--Combined EDA for all datasets used in the project
+- Combined EDA for all datasets used in the project
 
 Module_1:
 This module contains 3 classifiers- 
